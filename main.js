@@ -19,7 +19,7 @@ const array2 = [
     icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png",
     title: "TWITTER",
     description:
-      "Твиттер - американский сервис микроблогов и социальная сеть, в который пользователи публикуют сообщения, известные как твиты и взаимодействуют с ними.",
+      "Twitter - американский сервис микроблогов и социальная сеть, в который пользователи публикуют сообщения, известные как твиты и взаимодействуют с ними.",
 
     link: "https://web.telegram.org/k/",
   },
@@ -27,7 +27,7 @@ const array2 = [
     icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png",
     title: "TWITTER",
     description:
-      "Твиттер - американский сервис микроблогов и социальная сеть, в который пользователи публикуют сообщения, известные как твиты и взаимодействуют с ними.",
+      "Twitter - американский сервис микроблогов и социальная сеть, в который пользователи публикуют сообщения, известные как твиты и взаимодействуют с ними.",
     link: "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F",
   },
 ];
@@ -93,4 +93,3 @@ array2.forEach((item) => {
   divTag.appendChild(button);
   body.append(divTag);
 });
-

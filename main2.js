@@ -1,7 +1,7 @@
 const body = document.getElementById("body");
 body.style.display = "flex";
 body.style.justifyContent = "center";
-body.style.gap = "250px";
+body.style.gap = "60px";
 body.style.marginTop = "100px";
 body.style.backgroundColor = "aqua";
 
@@ -10,22 +10,22 @@ const array3 = [
     icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png",
     title: "TWITTER",
     description:
-      "Твиттер - американский сервис микроблогов и социальная сеть, в который пользователи публикуют сообщения, известные как твиты и взаимодействуют с ними.",
+      "Twitter - американский сервис микроблогов и социальная сеть, в который пользователи публикуют сообщения, известные как твиты и взаимодействуют с ними.",
 
     link: "https://web.telegram.org/k/",
   },
   {
-    icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png",
+    icon: "https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg",
     title: "INSTAGRAM",
     description:
-      "Твиттер - американский сервис микроблогов и социальная сеть, в который пользователи публикуют сообщения, известные как твиты и взаимодействуют с ними.",
+      "Instagram - американсякая социальная сеть для обмена фотографиями и видео, основанная Кевином Систромом и Майком Кригером",
     link: "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F",
   },
   {
-    icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png",
+    icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png",
     title: "TELEGRAM",
     description:
-      "Твиттер - американский сервис микроблогов и социальная сеть, в который пользователи публикуют сообщения, известные как твиты и взаимодействуют с ними.",
+      "Telergam - клоссплатформенная система мгновенного обмена сообщениями с функциями обмена текстовыми, голосовыми и видеосообщениями, а также...",
     link: "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F",
   },
 ];

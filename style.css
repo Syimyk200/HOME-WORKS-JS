@@ -5,9 +5,16 @@
   position: absolute;
   left: 616px;
   top: 587px;
+  a {
+    text-decoration: none;
+  }
 }
 #btn:hover {
   background-color: red;
-  color: white;
+  color: #fff;
   border: none;
+}
+
+#btn a:hover {
+  color: #fff;
 }
